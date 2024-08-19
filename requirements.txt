@@ -1,0 +1,8 @@
+# code last tested with below versions
+numpy==2.0.1
+matplotlib==3.9.2
+jupyterlab==4.2.4
+torch==2.4.0
+sbi==0.19.2
+brian2==2.7.1
+scipy==1.14.0
