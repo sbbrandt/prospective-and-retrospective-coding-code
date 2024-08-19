@@ -1,0 +1,15 @@
+# virtual environment
+venv
+
+# cache
+__pycache__
+
+# checkpoints
+.ipynb_checkpoints
+
+# logs
+sbi-logs
+
+# images
+*.svg
+*.pdf
